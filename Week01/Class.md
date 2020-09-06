@@ -36,3 +36,15 @@ VFX 순서
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
+
+
+Inline-style: 
+![대체 텍스트](http://www.hongik.ac.kr/front/images/local/header_logo.png " 홍익대학교 로고")
+
+Reference-style: 
+![대체 텍스트][logo]
+
+[logo]: http://www.hongik.ac.kr/front/images/local/header_logo222.png "홍익대학교 로고"
+
+
+### 예시 끝
