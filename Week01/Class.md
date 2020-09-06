@@ -1,2 +1,3 @@
 # This is Week01 class document
-## VFX의 역사
+## 1주차 VFX의 역사
+### VFX의 기원
