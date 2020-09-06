@@ -39,6 +39,7 @@ VFX 순서
 #### 이미지 
 
 ![Courtesy of Framestore and Netflix](https://www.foundry.com/sites/default/files/inline-images/GIF-comp-6%20%282%29.gif "디지털 컴포지팅 과정")
+
 <이미지1> Framestore의 Witcher 합성 진행과정
 
 
