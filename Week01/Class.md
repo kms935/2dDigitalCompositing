@@ -31,3 +31,8 @@ VFX 순서
 1) 저자명․저자명, 서명, 역자명(역), 판차(2판이상), 권차(2권이상), 출판사명, 발행연도, 면수.
 
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
