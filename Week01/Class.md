@@ -44,13 +44,16 @@ VFX 순서
 
 
 
+
 Inline-style: 
 ![대체 텍스트](http://www.hongik.ac.kr/front/images/local/header_logo.png " 홍익대학교 로고")
+
 
 
 Reference-style: 
 ![대체 텍스트][logo]
 [logo]: http://www.hongik.ac.kr/front/images/local/header_logo222.png "홍익대학교 로고"
+
 
 
 
