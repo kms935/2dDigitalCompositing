@@ -15,10 +15,15 @@ VFX 순서
 
 
 각주 예시<sup>1)</sup>
+
 각주 예시<sup>2)</sup>
+
 각주 예시<sup>3)</sup>
+
 각주 예시<sup>4)</sup>
+
 각주 예시<sup>5)</sup>
+
 각주 예시<sup>6)</sup>
 
 
