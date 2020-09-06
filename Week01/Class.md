@@ -43,12 +43,15 @@ VFX 순서
 <이미지1> Framestore의 Witcher 합성 진행과정
 
 
+
 Inline-style: 
 ![대체 텍스트](http://www.hongik.ac.kr/front/images/local/header_logo.png " 홍익대학교 로고")
+
 
 Reference-style: 
 ![대체 텍스트][logo]
 [logo]: http://www.hongik.ac.kr/front/images/local/header_logo222.png "홍익대학교 로고"
+
 
 
 #### 각주, 참고자료
@@ -59,8 +62,11 @@ Reference-style:
 1) 저자명․저자명, 서명, 역자명(역), 판차(2판이상), 권차(2권이상), 출판사명, 발행연도, 면수.
 1) 저자명․저자명, 서명, 역자명(역), 판차(2판이상), 권차(2권이상), 출판사명, 발행연도, 면수.
 
+
 <이미지1> 출처
 <이미지1> 출처
 <이미지1> 출처
+
+
 
 ### 예시 끝
