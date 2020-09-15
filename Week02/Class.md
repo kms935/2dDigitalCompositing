@@ -6,6 +6,8 @@ Class: Mon123
 Date of class: Sep 14, 2020
 Week: 02
 
+
+
 # What is the Alpha?
 
 Where does this came from? 
@@ -62,19 +64,19 @@ Let's see how the computer recognize a RGB color.
 
 8bit graphic, 
 
-![Week2%20What%20is%20the%20Alpha%20d35986ed774941ef9bc20c739730a031/Untitled%203.png](Week2%20What%20is%20the%20Alpha%20d35986ed774941ef9bc20c739730a031/Untitled%203.png)
+![Week2%20What%20is%20the%20Alpha%20d35986ed774941ef9bc20c739730a031/Untitled%203.png](./images/Untitled%203.png)
 
 16bit graphic, 
 
-![Week2%20What%20is%20the%20Alpha%20d35986ed774941ef9bc20c739730a031/Untitled%204.png](Week2%20What%20is%20the%20Alpha%20d35986ed774941ef9bc20c739730a031/Untitled%204.png)
+![Week2%20What%20is%20the%20Alpha%20d35986ed774941ef9bc20c739730a031/Untitled%204.png](./images/Untitled%204.png)
 
 [Untitled](https://www.notion.so/05b90f481adf44479006fcd0c5da9cee)
 
-![Week2%20What%20is%20the%20Alpha%20d35986ed774941ef9bc20c739730a031/Untitled%205.png](Week2%20What%20is%20the%20Alpha%20d35986ed774941ef9bc20c739730a031/Untitled%205.png)
+![Week2%20What%20is%20the%20Alpha%20d35986ed774941ef9bc20c739730a031/Untitled%205.png](./images/Untitled%205.png)
 
 8bit
 
-![Week2%20What%20is%20the%20Alpha%20d35986ed774941ef9bc20c739730a031/Untitled%206.png](Week2%20What%20is%20the%20Alpha%20d35986ed774941ef9bc20c739730a031/Untitled%206.png)
+![Week2%20What%20is%20the%20Alpha%20d35986ed774941ef9bc20c739730a031/Untitled%206.png](./images/Untitled%206.png)
 
 24bit
 
@@ -82,13 +84,13 @@ Let's see how the computer recognize a RGB color.
 
 # **R,G,B (0,0,0)**
 
-![Week2%20What%20is%20the%20Alpha%20d35986ed774941ef9bc20c739730a031/Untitled%207.png](Week2%20What%20is%20the%20Alpha%20d35986ed774941ef9bc20c739730a031/Untitled%207.png)
+![Week2%20What%20is%20the%20Alpha%20d35986ed774941ef9bc20c739730a031/Untitled%207.png](./images/Untitled%207.png)
 
 There's  another way to express number
 
 Integer, Float, Vector, String
 
-![Week2%20What%20is%20the%20Alpha%20d35986ed774941ef9bc20c739730a031/Untitled%208.png](Week2%20What%20is%20the%20Alpha%20d35986ed774941ef9bc20c739730a031/Untitled%208.png)
+![Week2%20What%20is%20the%20Alpha%20d35986ed774941ef9bc20c739730a031/Untitled%208.png](./images/Untitled%208.png)
 
 Integer: 0,1,2,3,4,5,..., n
 
