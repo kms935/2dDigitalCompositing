@@ -1,6 +1,4 @@
-### Week 02 Class 
-
-# Week2: What is the Alpha?
+### Week2: What is the Alpha?
 
 Class: Mon123
 Date of class: Sep 14, 2020
@@ -8,11 +6,11 @@ Week: 02
 
 
 
-# What is the Alpha?
+## What is the Alpha?
 
 Where does this came from? 
 
-# What is the Color? A digital color?
+## What is the Color? A digital color?
 
 What is the "Color" we saying?
 
@@ -44,7 +42,7 @@ What is 3 elements of the color we print? —> Subtract Mixing
 
 Many types of explain a color
 
-![Week2%20What%20is%20the%20Alpha%20d35986ed774941ef9bc20c739730a031/Untitled%202.png](Week2%20What%20is%20the%20Alpha%20d35986ed774941ef9bc20c739730a031/Untitled%202.png)
+![Week2%20What%20is%20the%20Alpha%20d35986ed774941ef9bc20c739730a031/Untitled%202.png](./images/Untitled%202.png)
 
  **H/S/B, R/G/B, #HEXCODE, L/a/b, C/M/Y/K**
 
@@ -69,8 +67,6 @@ Let's see how the computer recognize a RGB color.
 16bit graphic, 
 
 ![Week2%20What%20is%20the%20Alpha%20d35986ed774941ef9bc20c739730a031/Untitled%204.png](./images/Untitled%204.png)
-
-[Untitled](https://www.notion.so/05b90f481adf44479006fcd0c5da9cee)
 
 ![Week2%20What%20is%20the%20Alpha%20d35986ed774941ef9bc20c739730a031/Untitled%205.png](./images/Untitled%205.png)
 
